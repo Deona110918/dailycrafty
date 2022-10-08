@@ -165,7 +165,7 @@
         "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Stay connected on new products, event and offers. Valid for new subscriber only. <\/p>"
+            "text": "<p><em>Stay connected on new products, event and offers. Valid for new subscriber only. <\/em><\/p>"
           }
         },
         "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-2": {
@@ -180,7 +180,7 @@
         "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
