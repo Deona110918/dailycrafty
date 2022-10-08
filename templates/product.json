@@ -143,8 +143,8 @@
         "template--15918949761210__b000fa73-c9d7-4204-82b8-2cde6a3633a5-166519381266c22827-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
-        "full_width": false,
+        "color_scheme": "background-1",
+        "full_width": true,
         "padding_top": 32,
         "padding_bottom": 52
       }
