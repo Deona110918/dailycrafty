@@ -152,43 +152,38 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
+    "85bce4eb-fdd1-42da-9f98-198c54ba9a96": {
+      "type": "newsletter",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-0": {
+          "type": "heading",
           "settings": {
-            "collection": ""
+            "heading": "GET 20% OFF FOR YOUR FIRST ORDER",
+            "heading_size": "h1"
           }
         },
-        "product": {
-          "type": "product",
+        "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-1": {
+          "type": "paragraph",
           "settings": {
-            "product": "",
-            "second_image": false
+            "text": "<p>Stay connected on new products, event and offers. Valid for new subscriber only. <\/p>"
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-2": {
+          "type": "email_form",
           "settings": {
-            "collection": ""
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-0",
+        "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-1",
+        "template--15918949564602__85bce4eb-fdd1-42da-9f98-198c54ba9a96-1665191732774a1f1c-2"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "video": {
@@ -196,9 +191,10 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/tumblr_a7fa6deffd8d77be2eef6dda42dd6595_55c4277e_1280.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=f4iAVf2SvYE",
         "description": "",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -263,7 +259,7 @@
     "85646658-9772-40d0-9a32-f3346a7f13d4",
     "73f460b2-fa62-4429-8e51-6a8d6913158d",
     "featured_collection",
-    "collage",
+    "85bce4eb-fdd1-42da-9f98-198c54ba9a96",
     "video",
     "multicolumn"
   ]
