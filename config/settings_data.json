@@ -143,7 +143,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/DC.png",
-          "logo_width": 190,
+          "logo_width": 170,
           "logo_position": "middle-left",
           "menu": "header-menu",
           "menu_type_desktop": "dropdown",
