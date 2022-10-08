@@ -158,31 +158,23 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
+          "2d1ea6e4-e127-436d-a2b1-eb75d10fdd12": {
+            "type": "text",
             "settings": {
               "heading": "Info",
-              "menu": "footer"
+              "subtext": "<p>Daily Crafty<br\/>(02) 857-37121<br\/>Blk 2 Lot 16 Rafael st. San Antonio Valley 7 Pulang Lupa Dos, Las Piñas, Philippines<br\/>Dailycrafty@gmail.com<\/p>"
             }
           },
           "footer-2": {
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "subtext": "<p>To innovate, to lead, to enchance, to provide best-value products and services to global customers. <br\/>To make a difference through our branding to stay ahead of fashion trends, market changes and the latest technology. <br\/>To enchance the quality of life for our business partners, customers and employees.  <\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1",
+          "2d1ea6e4-e127-436d-a2b1-eb75d10fdd12",
           "footer-2"
         ],
         "settings": {
