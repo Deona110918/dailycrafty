@@ -142,9 +142,10 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 90,
+          "logo": "shopify:\/\/shop_images\/DC.png",
+          "logo_width": 150,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "header-menu",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
