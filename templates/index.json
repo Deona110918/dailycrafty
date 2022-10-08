@@ -199,6 +199,28 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "7d3fe63a-a93b-4e77-a703-faf38248f442": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15918949564602__7d3fe63a-a93b-4e77-a703-faf38248f442-1665193690d6f08371-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Fashion you can buy, but style you possess. The key to style is learning who you are, which takes years. There's no how-to road map to style. It's about self expression and, above all, attitude.\" <\/p><p>—<strong>Iris Apfel<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15918949564602__7d3fe63a-a93b-4e77-a703-faf38248f442-1665193690d6f08371-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -207,6 +229,7 @@
     "73f460b2-fa62-4429-8e51-6a8d6913158d",
     "featured_collection",
     "85bce4eb-fdd1-42da-9f98-198c54ba9a96",
-    "video"
+    "video",
+    "7d3fe63a-a93b-4e77-a703-faf38248f442"
   ]
 }
